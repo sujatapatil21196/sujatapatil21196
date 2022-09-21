@@ -2,7 +2,7 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Sujata_Patil-red)](https://www.youtube.com/channel/UCVouALAaahIEEl_m-mBkeeg)
 [![Linkedin Badge](https://img.shields.io/badge/-Sujata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/sujata-patil-97016620b/)
-[![Website Badge](https://img.shields.io/badge/WebSite-sujata-green)](github.com/sujatapatil21196)
+[![Website Badge](https://img.shields.io/badge/WebSite-sujata-green)](https://github.com/sujatapatil21196)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-sujata-yellow)](https://stackoverflow.com/users/20044996/sujata-jamdade)
 
 

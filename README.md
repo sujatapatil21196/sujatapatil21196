@@ -7,7 +7,7 @@
 
 
 I'm
-Intern At Edureka
+Intern At Edureka.
 The crossover between design and programming has always been of interest to me, I have a skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive,), Server Administrator(AWS),database(MongoDB,Mysql).
 
 
